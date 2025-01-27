@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siddhesh-sarode
-- 👀 I’m interested in Python and ML
+- 👀 I’m interested in storytelling, to create reports and creative insights
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Analtyics Role
 - 📫 How to reach me ...siddheshsarode08@gamil.com
